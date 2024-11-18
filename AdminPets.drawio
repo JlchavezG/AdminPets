@@ -480,8 +480,8 @@
         <mxCell id="-2F_RLexDrQDR6lkoxeQ-141" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1240" y="468" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-2F_RLexDrQDR6lkoxeQ-142" value="Reportes User == true" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="-2F_RLexDrQDR6lkoxeQ-142" value="Delate User == true" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-2F_RLexDrQDR6lkoxeQ-144" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1110" y="468" width="40" height="30" as="geometry" />
